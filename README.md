@@ -178,10 +178,13 @@ End If
   
 ### Run Time 
 
-#### Orginal Code 
+#### Refactored Code 
 
 ![Image 11-22-20 at 9 32 PM](https://user-images.githubusercontent.com/74481469/99934249-585bbb00-2d12-11eb-991c-3050488d72e7.jpeg)
 
+![Image 11-22-20 at 9 32 PM (1)](https://user-images.githubusercontent.com/74481469/99934533-1aab6200-2d13-11eb-9d39-c7fa17c36d3f.jpeg)
+
+Clearly, the refactored code is running much faster than the orginal code! 
 
 
 
