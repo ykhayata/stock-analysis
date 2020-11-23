@@ -186,5 +186,17 @@ End If
 
 Clearly, the refactored code is running much faster than the orginal code! 
 
+## Summary 
+
+#### Refactoring Code 
+
+  Our main goal here was to make the original code more efficient, and thankfully we did just that!. This is refactoring code's main advantage. The major disasvantage, however, is taking code that already works, and risking making the code not work at all. This is why in all cases, its almost better to use the orginal code, save it, then see if you can play around by refactoring the good. If it works great. If not, you always have the orginal code to fall back on.
+  
+#### VBA Script
+
+  To me, the disadvantage in refactoring in VBA script was the code was a little bit hard to read at first, making me always second guess myself whenever I needed to make a change. For example, creating a tickerindex took a while, only because this was really my first time looking at code, so it was a little hard to understand. I am confident, though, that as this class goes on, my understanding of code will tremendously improve, which will make VBA script a lot easier to refactor and read.
+  
+  The major advantage of refactoring code in VBA script is that you can open up multiple tabs and play around with the orginal code as much as you please to eventually get to the point where you start refactoring. This is great because you can open up multiple modules and always go back and forth when you want to test something new. 
+
 
 
