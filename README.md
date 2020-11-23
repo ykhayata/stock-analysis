@@ -1,5 +1,5 @@
-# stock-analysis
+## Green Stock Analysis
 
-Overview of Project
+# Overview of Project
 
   I went 
